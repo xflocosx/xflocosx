@@ -29,4 +29,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xflocosx/xflocosx/output/github-contribution-grid-snake.svg">
 </picture>
 
-< !--Código Snake com base no projeto do Platane =  [Platane/snk](https://github.com/Platane/snk)-- >
+< !--
+Código Snake com base no projeto do Platane =  [Platane/snk](https://github.com/Platane/snk)
+-- >
