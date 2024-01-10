@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil!!!
-https://github-readme-stats.vercel.app/api?username=xflocosx
+
 
  <div>
    <a href="https://github.com/xflocosx">
