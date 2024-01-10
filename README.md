@@ -1,9 +1,12 @@
 ## Bem-vindo(a) ao meu perfil!!!
-Parece que está um pouco vazio... Não estou conseguindo localizar os meus commits, será que foi por serem feitos num repositório privado?
+https://github-readme-stats.vercel.app/api?username=xflocosx
 
  <div>
    <a href="https://github.com/xflocosx">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xflocosx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+https://github-readme-stats.vercel.app/api?username=xflocosx
+
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xflocosx&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
