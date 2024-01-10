@@ -1,4 +1,5 @@
 ## Bem-vindo(a) ao meu perfil!!!
+Parece que está um pouco vazio... Não estou conseguindo localizar os meus commits, será que foi por serem feitos num repositório privado?
 
  <div>
    <a href="https://github.com/xflocosx">
