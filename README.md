@@ -1,4 +1,4 @@
-Bem-vindo ao universo meu GitHub! 🚀
+Bem-vindo ao universo do meu GitHub! 🚀
 
 👋 Saudações!
 Oi, eu sou Elton, o ninja dos testes de software! Com 33 anos de muito conhecimento e dois mini-humanos fazendo a festa em casa, eu sou o SQA que vai além do simples "isso funciona", garantindo que tudo brilhe como uma calopsita recém-banhada!
