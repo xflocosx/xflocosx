@@ -1,10 +1,10 @@
 Bem-vindo ao universo do meu GitHub! 🚀
 
 👋 Saudações!
-Oi, eu sou Elton, o ninja dos testes de software! Com 33 anos de muito conhecimento e dois mini-humanos fazendo a festa em casa, eu sou o SQA que vai além do simples "isso funciona", garantindo que tudo brilhe como uma calopsita recém-banhada!
+Oi, eu sou Elton, o ninja dos testes de software! Com 34 anos de muito conhecimento e dois mini-humanos fazendo a festa em casa, eu sou o SQA que vai além do simples "isso funciona", garantindo que tudo brilhe como uma calopsita recém-banhada!
 
 🧪 Testes é meu Sobrenome
-Com 6 anos de experiência como Software Quality Analyst, eu danço entre códigos como se estivesse em uma pista de dança (bem, quase). Planos de Testes? Casos de Testes? Meu café da manhã! Cypress? Postman? SCRUM? Metodologias ágeis? Falo fluentemente!
+Com 6 anos de experiência como Software Quality Analyst, eu danço entre códigos como se estivesse em uma pista de dança (bem, quase). Planos de testes, cenários de testes e casos de testes? Meu café da manhã! Cypress? Postman? SCRUM? Metodologias ágeis? Falo fluentemente!
 
 📦 Pacotes de Conhecimento
 Meus "pacotes" (sim, esse trocadilho pode vir da minha formação em Logística) de conhecimento incluem testes de API, testes de regressão e tudo que um responsável pela qualidade de software deve ter para garantir a qualidade do produto. Se é código, eu testo; se é um bug, eu esmago!
